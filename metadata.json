@@ -1,0 +1,7 @@
+{
+  "name": "QuickCheck Visitor Onboarding",
+  "description": "A mobile-first visitor onboarding web app using Puter.js for backend logic. It allows guests to check in/out digitally, and admins to manage staff and view analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
